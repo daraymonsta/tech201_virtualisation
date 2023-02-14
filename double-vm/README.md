@@ -196,3 +196,8 @@ You need to do this command in a script:
 
 But you need to put in a back slash before each forward slash and dollar sign in your search and replace strings:
 `sudo sed -i "s/try_files \$uri \$uri\/ =404;/proxy_pass http:\/\/localhost:3000\/;/" /etc/nginx/sites-available/default`
+
+<br><br>
+## Next steps/tasks?
+
+* Automate the startup of the app with Vagrant, by making it run as a background process
