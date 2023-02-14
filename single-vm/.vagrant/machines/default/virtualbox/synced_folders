@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/app":{"guestpath":"/home/vagrant/app","hostpath":"C:/Users/ramon/OneDrive/study/github/tech201_virtualisation/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/ramon/OneDrive/study/github/tech201_virtualisation","disabled":false,"__vagrantfile":true}}}
